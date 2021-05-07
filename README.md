@@ -1,2 +1,2 @@
-# kolision_GDV
+# kolision
 Interesante
